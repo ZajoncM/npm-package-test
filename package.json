@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Removes all spaces from a string",
   "license": "MIT",
-  "repository": "milosz.zajonc/tiny",
+  "repository": "ZajoncM/npm-package-test",
   "main": "index.js",
   "keywords": [
     "tiny",
