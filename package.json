@@ -1,4 +1,14 @@
 {
   "name": "@milosz.zajonc/tiny",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "milosz.zajonc/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "milosz.zajonc"
+  ]
 }
